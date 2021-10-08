@@ -3,7 +3,7 @@
 
 If you need help, our support channel is on [Discord](https://discord.gg/THCRsJc).
 
-The package works by using World.prefab as a parent constraint source. World.prefab is not in the scene, so the parent constraint will not move with the avatar.
+This package works by using World.prefab as a parent constraint source. World.prefab is not in the scene, so the parent constraint will not move with the avatar.
 
 The World Constraint.prefab should go to the base of your Unity scene, which will give it base Unity scaling.
 
