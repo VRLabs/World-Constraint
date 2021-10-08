@@ -7,6 +7,7 @@
   </p>
 </div>
 
+</br>
 
 If you need help, our support channel is on [Discord](https://discord.gg/THCRsJc).
 
