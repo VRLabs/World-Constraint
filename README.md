@@ -6,7 +6,6 @@
     A world fixed object, held in place with a constraint.
   </p>
   <br />
-  <br />
 </div>
 
 # Install Notes ダウンロード
