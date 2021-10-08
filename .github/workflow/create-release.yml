@@ -20,7 +20,7 @@ jobs:
       - name: Prepare Folder For Packaging
         run: |
           mkdir -p "Assets/VRLabs/World Constraint"
-          ls | grep -v "Assets" | xargs mv -t "Assets/VRLabs/World Constraint"
+          ls | grep -v "Assets" | xargs -i{} mv {} "Assets/VRLabs/World Constraint"
           echo -e "fileFormatVersion: 2\nguid: 652a1ba5b00554143bc9a76307dbc4e8\nfolderAsset: yes\nDefaultImporter:\n  externalObjects: {}\n  userData: \n  assetBundleName: \n  assetBundleVariant: " > "Assets/VRLabs.meta"
           echo -e "fileFormatVersion: 2\nguid: bf82f1f4eac86b14082325c8d3ac728c\nfolderAsset: yes\nDefaultImporter:\n  externalObjects: {}\n  userData: \n  assetBundleName: \n  assetBundleVariant: " > "Assets/VRLabs/World Constraint.meta"
           find "Assets/" -name \*.meta > package
@@ -37,9 +37,9 @@ jobs:
         uses: softprops/action-gh-release@v1
         if: startsWith(github.ref, 'refs/tags/')
         with:
-          name: "World_Constraint_${{ env.SOURCE_TAG }}"
+          name: "World Constraint ${{ env.SOURCE_TAG }}"
           files: |
-            World Constraint ${{ env.SOURCE_TAG }}.unitypackage
+            World_Constraint_${{ env.SOURCE_TAG }}.unitypackage
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           SOURCE_TAG: ${{ steps.branch_name.outputs.SOURCE_TAG }}
