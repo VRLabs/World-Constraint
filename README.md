@@ -1,13 +1,5 @@
-<div align="center">
-  <h1>
-    World Constraint
-  </h1>
-  <p>
-    A world fixed object, held in place with a constraint.
-  </p>
-</div>
-
-</br>
+# World Constraint
+## A world fixed object, held in place with a constraint.
 
 If you need help, our support channel is on [Discord](https://discord.gg/THCRsJc).
 
