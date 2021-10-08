@@ -5,7 +5,6 @@
   <p>
     A world fixed object, held in place with a constraint.
   </p>
-  <br />
 </div>
 
 If you need help, our support channel is on [Discord](https://discord.gg/THCRsJc).
