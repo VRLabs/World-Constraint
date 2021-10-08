@@ -8,8 +8,6 @@
   <br />
 </div>
 
-# Install Notes ダウンロード
-
 If you need help, our support channel is on [Discord](https://discord.gg/THCRsJc).
 
 The package works by using a prefab as the source in a parent constraint. If the prefab is not in the scene, the parent constraint will be at the prefab transforms and not move with the avatar.
