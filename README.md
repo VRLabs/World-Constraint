@@ -1,5 +1,5 @@
 # World Constraint
-## A world fixed object, held in place with a constraint.
+### A world fixed object, held in place with a constraint.
 
 If you need help, our support channel is on [Discord](https://discord.gg/THCRsJc).
 
