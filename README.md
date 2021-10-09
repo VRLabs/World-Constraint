@@ -39,7 +39,7 @@ Unpack the prefab by right-clicking it and move the prefab to base of your avata
 
 Expand the prefab, and locate World Constraint/ResetTarget. Move this object out of the prefab to anywhere else on your avatar.
 
-The Parent Constraint on World Constraint/Container uses ResetTarget as a source. Disable this Parent Constraint component to leave your Container in world space, and enable it to reset the Container to ResetTarget.
+The parent constraint on World Constraint/Container uses ResetTarget as a source. Disable this parent constraint component to leave your Container in world space, and enable it to reset the Container to ResetTarget.
 
 Replace the Cube under World Constraint/Container with your own objects.
 
