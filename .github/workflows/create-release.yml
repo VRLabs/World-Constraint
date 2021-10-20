@@ -23,7 +23,7 @@ jobs:
           ls | grep -v "Assets" | xargs -i{} mv {} "Assets/VRLabs/World Constraint"
           echo -e "fileFormatVersion: 2\nguid: 652a1ba5b00554143bc9a76307dbc4e8\nfolderAsset: yes\nDefaultImporter:\n  externalObjects: {}\n  userData: \n  assetBundleName: \n  assetBundleVariant: " > "Assets/VRLabs.meta"
           echo -e "fileFormatVersion: 2\nguid: bf82f1f4eac86b14082325c8d3ac728c\nfolderAsset: yes\nDefaultImporter:\n  externalObjects: {}\n  userData: \n  assetBundleName: \n  assetBundleVariant: " > "Assets/VRLabs/World Constraint.meta"
-          find "Assets/VRLabs/World Constraint" -name \*.meta ! -name "Media.meta" -not -path "Assets/VRLabs/World-Constraint/Media/*" > package
+          find "Assets/" -name \*.meta ! -name "Media.meta" -not -path "Assets/VRLabs/World Constraint/Media/*" > package
 
       - name: Create UnityPackage
         env:
