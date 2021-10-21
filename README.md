@@ -1,4 +1,5 @@
 <div align="center">
+  <img src="https://raw.githubusercontent.com/VRLabs/World-Constraint/main/Media/Large.jpeg">
   <h1>World Constraint</h1>
   <p>
      A world fixed object, held in place with a constraint.
