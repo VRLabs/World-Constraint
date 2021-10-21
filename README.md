@@ -1,4 +1,4 @@
-<div align="center">
+<div>
   <h1>World Constraint</h1>
   <p>
      A world fixed object, held in place with a constraint.
