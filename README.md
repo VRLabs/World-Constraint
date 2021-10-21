@@ -24,6 +24,7 @@
     <img src="https://img.shields.io/github/issues-pr-closed-raw/VRLabs/World-Constraint.svg?style=flat-square">
   </a>
   <br />
+  <br />
     <img src="https://raw.githubusercontent.com/VRLabs/World-Constraint/main/Media/Large.jpeg" width="100%">
   <br />
 </div>
