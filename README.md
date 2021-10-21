@@ -25,7 +25,7 @@
   </a>
   <br />
   <br />
-    <img src="https://raw.githubusercontent.com/VRLabs/World-Constraint/main/Media/Large.jpeg" width="100%">
+    <img src="https://raw.githubusercontent.com/VRLabs/World-Constraint/main/Media/Large.jpeg" width="80%">
   <br />
 </div>
 
