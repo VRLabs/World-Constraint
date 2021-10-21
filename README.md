@@ -27,7 +27,6 @@
   <br />
     <img src="https://raw.githubusercontent.com/VRLabs/World-Constraint/main/Media/Large.jpeg" width="90%">
   <br />
-  <br />
 </div>
 
 ## How it works
