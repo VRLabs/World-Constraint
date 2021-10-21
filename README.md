@@ -3,7 +3,6 @@
   <p>
      A world fixed object, held in place with a constraint.
   </p>
-
   <a href="https://github.com/VRLabs/World-Constraint/releases/latest">
     <img src="https://img.shields.io/github/v/release/VRLabs/World-Constraint.svg?style=flat-square">
   </a>
@@ -25,7 +24,8 @@
   </a>
   <br />
   <br />
-    <img src="https://raw.githubusercontent.com/VRLabs/World-Constraint/main/Media/Large.jpeg" width="95%">
+    <img src="https://raw.githubusercontent.com/VRLabs/World-Constraint/main/Media/Large.jpeg" width="98%">
+  <br />
   <br />
 </div>
 
