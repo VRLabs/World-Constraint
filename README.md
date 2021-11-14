@@ -31,19 +31,23 @@
 
 ## How it works
 
-This package works by using World.prefab as a parent constraint source. World.prefab is not in the scene, so the parent constraint will not move with the avatar.
+"World Constraint" uses "World.prefab" as a parent constraint source. "World.prefab" is not in the scene, so "World Constraint" and it's child hierarchy will not move with the avatar.
+
+The parent constraint on "Container" uses "ResetTarget" as a source, which is used to bring "Container" to your avatar.
 
 ## Install guide
 
-The World Constraint.prefab should go to the base of your Unity scene, which will give it base Unity scaling.
+"World Constraint.prefab" should go to the base of your Unity scene, which will give it base Unity scaling.
 
 Unpack the prefab by right-clicking it and move the prefab to base of your avatar.
 
-Expand the prefab, and locate World Constraint/ResetTarget. Move this object out of the prefab to anywhere else on your avatar.
+Expand the prefab, and locate "ResetTarget". Move this object out of the prefab to anywhere else on your avatar.
 
-The parent constraint on World Constraint/Container uses ResetTarget as a source. Disable this parent constraint component to leave your Container in world space, and enable it to reset the Container to ResetTarget.
+Replace the Cube under with your own objects.
 
-Replace the Cube under World Constraint/Container with your own objects.
+## How to use
+
+Disable the "Container" parent constraint component to leave it in world space, and enable it to reset the "Container" to "ResetTarget".
 
 ## Downloads
 
