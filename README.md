@@ -36,6 +36,8 @@ The parent constraint on "Container" uses "ResetTarget" as a source, which is us
 
 ## Install guide
 
+https://user-images.githubusercontent.com/45078979/148663027-b809919d-9c3f-4ea8-99b6-1bb805b1b230.mp4
+
 "World Constraint.prefab" should go to the base of your Unity scene, which will give it base Unity scaling.
 
 Unpack the prefab by right-clicking it and move the prefab to base of your avatar.
