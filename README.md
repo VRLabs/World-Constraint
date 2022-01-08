@@ -46,7 +46,7 @@ Expand the prefab, and locate "Reset Target". Move this object out of the prefab
 
 ## How to use
 
-Disable the "Container" parent constraint component to leave it in world space, and enable it to reset the "Container" to "ResetTarget".
+Disable the "Container" parent constraint component to leave it in world space, and enable it to reset the "Container" to "Reset Target".
 
 ## Downloads
 
