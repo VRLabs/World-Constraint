@@ -32,7 +32,7 @@
 
 "World Constraint" uses "World.prefab" as a parent constraint source. "World.prefab" is not in the scene, so "World Constraint" and it's child hierarchy will not move with the avatar.
 
-The parent constraint on "Container" uses "ResetTarget" as a source, which is used to bring "Container" to your avatar.
+The parent constraint on "Container" uses "Reset Target" as a source, which is used to bring "Container" to your avatar.
 
 ## Install guide
 
@@ -42,7 +42,7 @@ https://user-images.githubusercontent.com/45078979/148663027-b809919d-9c3f-4ea8-
 
 Unpack the prefab by right-clicking it and move the prefab to base of your avatar.
 
-Expand the prefab, and locate "ResetTarget". Move this object out of the prefab to anywhere else on your avatar.
+Expand the prefab, and locate "Reset Target". Move this object out of the prefab to anywhere else on your avatar.
 
 ## How to use
 
