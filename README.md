@@ -54,7 +54,7 @@ You can grab the latest version of the World Constraint in [Releases](https://gi
 
 ## License
 
-World Constraint is available as-is under MIT. For more information see [LICENSE](https://github.com/VRLabs/World-Constraint/blob/dev/LICENSE).
+World Constraint is available as-is under MIT. For more information see [LICENSE](https://github.com/VRLabs/World-Constraint/blob/main/LICENSE).
 
 ## Contact us
 
