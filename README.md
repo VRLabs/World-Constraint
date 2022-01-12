@@ -12,7 +12,7 @@
   <br />
   <div>
     <img src="https://raw.githubusercontent.com/VRLabs/World-Constraint/main/Media/Main.jpeg" width="100%">
-  <div />
+  </div>
 </div>
 
 ## How it works
