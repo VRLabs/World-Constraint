@@ -10,9 +10,9 @@
     <img src="https://img.shields.io/badge/Unity-2019.4-green.svg?style=flat-square">
   </a>
   <br />
-  <br />
+  <div>
     <img src="https://raw.githubusercontent.com/VRLabs/World-Constraint/main/Media/Main.jpeg" width="100%">
-  <br />
+  <div />
 </div>
 
 ## How it works
