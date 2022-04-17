@@ -1,18 +1,15 @@
+# World Constraint
+
+[![Generic badge](https://img.shields.io/badge/Version-1.2-orange.svg)](https://github.com/VRLabs/World-Constraint/releases/latest)
+[![Generic badge](https://img.shields.io/badge/Unity-2019.4.31f1-informational.svg)](https://unity3d.com/unity/whats-new/2019.4.31)
+[![Generic badge](https://img.shields.io/badge/SDK-AvatarSDK3-informational.svg)](https://vrchat.com/home/download)
+[![Generic badge](https://img.shields.io/badge/License-MIT-informational.svg)](https://github.com/VRLabs/World-Constraint/blob/main/LICENSE)  
+
+A world-fixed object, held in place with a constraint.
+
 <div>
-  <h1>World Constraint</h1>
-  <p>
-     A world fixed object, held in place with a constraint.
-  </p>
-  <a href="https://github.com/VRLabs/World-Constraint/releases/latest">
-    <img src="https://img.shields.io/github/v/release/VRLabs/World-Constraint.svg?style=flat-square">
-  </a>
-  <a href="https://github.com/VRLabs/World-Constraint/releases/latest">
-    <img src="https://img.shields.io/badge/Unity-2019.4-green.svg?style=flat-square">
-  </a>
-  <br />
-  <div class="main-image">
-    <img src="https://raw.githubusercontent.com/VRLabs/World-Constraint/main/Media/Main.jpeg" width="100%">
-  </div>
+  <img src="https://raw.githubusercontent.com/VRLabs/World-Constraint/main/Media/Main.jpeg" width="100%">
+  <br/>
 </div>
 
 ## How it works
