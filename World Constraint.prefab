@@ -200,7 +200,6 @@ GameObject:
   m_Component:
   - component: {fileID: 8989171637697443617}
   - component: {fileID: 8986801634007323686}
-  - component: {fileID: 8622736550301793349}
   m_Layer: 0
   m_Name: Container
   m_TagString: Untagged
@@ -244,25 +243,6 @@ ParentConstraint:
   m_AffectRotationX: 1
   m_AffectRotationY: 1
   m_AffectRotationZ: 1
-  m_IsContraintActive: 1
-  m_IsLocked: 1
-  m_Sources:
-  - sourceTransform: {fileID: 6374876860151498723}
-    weight: 1
---- !u!1818360610 &8622736550301793349
-ScaleConstraint:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 8986801634007323685}
-  m_Enabled: 1
-  m_Weight: 1
-  m_ScaleAtRest: {x: 1, y: 1, z: 1}
-  m_ScaleOffset: {x: 1, y: 1, z: 1}
-  m_AffectScalingX: 1
-  m_AffectScalingY: 1
-  m_AffectScalingZ: 1
   m_IsContraintActive: 1
   m_IsLocked: 1
   m_Sources:
