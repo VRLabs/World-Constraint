@@ -32,6 +32,10 @@ Expand the prefab, and locate "Reset Target". Move this object out of the prefab
 
 Disable the "Container" parent constraint component to leave it in world space, and enable it to reset the "Container" to "Reset Target".
 
+## Scaling
+
+By default, the Container and its contents will not scale with your avatar. If you want the Container and its contents to scale with your avatar, add a Scale Constraint to the "Container" object, set your avatar as the source, and activate it.
+
 ## Downloads
 
 You can grab the latest version of the World Constraint in [Releases](https://github.com/VRLabs/World-Constraint/releases/latest).
