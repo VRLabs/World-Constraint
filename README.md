@@ -29,6 +29,8 @@ A world-fixed object, held in place with a constraint
 
 ## Install guide
 
+https://github.com/VRLabs/World-Constraint/assets/76777936/464287a8-c43c-4cf0-bc6b-5ec700a3eb9b
+
 * Drag & drop the ``World Constraint`` prefab into the base of your Hierarchy.
 * Right click and unpack the prefab, then drag & drop it onto your avatar.
 * Expand the prefab hierarchy and find ``Reset Target``
