@@ -14,7 +14,7 @@ A world-fixed object, held in place with a constraint
 
 ![WorldConstraint](https://github.com/VRLabs/World-Constraint/assets/76777936/d80ef068-8b3c-4bcb-8010-f9702a016533)
 
-### ⬇️ [Download latest Unitypackage](https://github.com/VRLabs/World-Constraint/releases/latest)
+### ⬇️ [Download Latest Version](https://github.com/VRLabs/World-Constraint/releases/latest)
 
 <!-- 
 ### 📦 [Add to VRChat Creator Companion]() -->
