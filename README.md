@@ -12,7 +12,7 @@
 
 A world-fixed object, held in place with a constraint
 
-![WorldConstraint](https://github.com/VRLabs/World-Constraint/assets/76777936/b822a6a9-a9bd-41ff-8f1a-b8adc7a1762e)
+![WorldConstraint](https://github.com/VRLabs/World-Constraint/assets/76777936/d80ef068-8b3c-4bcb-8010-f9702a016533)
 
 ### ⬇️ [Download latest Unitypackage](https://github.com/VRLabs/World-Constraint/releases/latest)
 
