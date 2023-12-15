@@ -2,6 +2,7 @@
     "name": "dev.vrlabs.world-constraint",
     "displayName": "World Constraint",
     "version": "1.2.999",
+    "license": "MIT",
     "unity": "2019.4",
     "description": "A world-fixed object, held in place with a constraint",
     "author": {
