@@ -18,7 +18,7 @@ namespace VRLabs.WorldConstraint
 			"package.json"
 		};
 
-		[MenuItem("VRLabs/World Constraint")]
+		[MenuItem("VRLabs/Create Instance/World Constraint")]
 		public static void FancyPackage()
 		{
 			Type instancerType = AppDomain.CurrentDomain.GetAssemblies()
