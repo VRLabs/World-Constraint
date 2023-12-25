@@ -1,26 +1,30 @@
 {
-    "name": "dev.vrlabs.world-constraint",
-    "displayName": "World Constraint",
-    "version": "1.2.999",
-    "license": "MIT",
-    "unity": "2019.4",
-    "description": "A world-fixed object, held in place with a constraint",
-    "author": {
-        "name": "VRLabs",
-        "email": "mail@vrlabs.dev",
-        "url": "https://vrlabs.dev"
-    },
-    "siteUrl": "https://github.com/VRLabs/World-Constraint",
-    "vpmDependencies": {
-        "dev.vrlabs.instancer": "1.x"
-    },
-    "legacyFolders": {
-        "Assets\\VRLabs\\World Constraint": "bf82f1f4eac86b14082325c8d3ac728c"
-    },
-    "unityPackageDestinationFolder": "Assets/VRLabs/World Constraint",
-    "unitypackageDestinationFolderMetas": {
-        "Assets/VRLabs": "652a1ba5b00554143bc9a76307dbc4e8",
-        "Assets/VRLabs/World Constraint": "bf82f1f4eac86b14082325c8d3ac728c"
-    },
-    "vccRepoCategory": "components"
+  "name": "dev.vrlabs.world-constraint",
+  "displayName": "World Constraint",
+  "version": "1.2.999",
+  "license": "MIT",
+  "unity": "2019.4",
+  "description": "A world-fixed object, held in place with a constraint",
+  "author": {
+    "name": "VRLabs",
+    "email": "mail@vrlabs.dev",
+    "url": "https://vrlabs.dev"
+  },
+  "siteUrl": "https://github.com/VRLabs/World-Constraint",
+  "vpmDependencies": {
+    "dev.vrlabs.instancer": "1.x"
+  },
+  "legacyFolders": {
+    "Assets\\VRLabs\\World Constraint": "bf82f1f4eac86b14082325c8d3ac728c"
+  },
+  "unityPackageDestinationFolder": "Assets/VRLabs/World Constraint",
+  "unitypackageDestinationFolderMetas": {
+    "Assets/VRLabs": "652a1ba5b00554143bc9a76307dbc4e8",
+    "Assets/VRLabs/World Constraint": "bf82f1f4eac86b14082325c8d3ac728c"
+  },
+  "vccRepoCategory": "components",
+  "media": {
+    "previewImage": "https://github.com/VRLabs/World-Constraint/blob/main/Media/Preview.webp",
+    "previewGif": "https://github.com/VRLabs/World-Constraint/blob/main/Media/Preview.gif"
+  }
 }
