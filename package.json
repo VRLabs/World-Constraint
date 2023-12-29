@@ -18,13 +18,13 @@
     "Assets\\VRLabs\\World Constraint": "bf82f1f4eac86b14082325c8d3ac728c"
   },
   "unityPackageDestinationFolder": "Assets/VRLabs/World Constraint",
-  "unitypackageDestinationFolderMetas": {
-    "Assets/VRLabs": "652a1ba5b00554143bc9a76307dbc4e8",
-    "Assets/VRLabs/World Constraint": "bf82f1f4eac86b14082325c8d3ac728c"
-  },
   "vccRepoCategory": "components",
   "media": {
     "previewImage": "https://github.com/VRLabs/World-Constraint/blob/main/Media/Preview.webp",
     "previewGif": "https://github.com/VRLabs/World-Constraint/blob/main/Media/Preview.gif"
+  },
+  "unityPackageDestinationFolderMetas": {
+    "Assets/VRLabs": "652a1ba5b00554143bc9a76307dbc4e8",
+    "Assets/VRLabs/World Constraint": "bf82f1f4eac86b14082325c8d3ac728c"
   }
 }
