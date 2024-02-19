@@ -20,8 +20,8 @@
   "unityPackageDestinationFolder": "Assets/VRLabs/World Constraint",
   "vccRepoCategory": "components",
   "media": {
-    "previewImage": "https://raw.githubusercontent.com/VRLabs/World-Constraint/main/Media/Preview.webp",
-    "previewGif": "https://raw.githubusercontent.com/VRLabs/World-Constraint/main/Media/Preview.gif"
+    "previewImage": "https://raw.githubusercontent.com/VRLabs/World-Constraint/main/Media/Web/Web/Preview.webp",
+    "previewGif": "https://raw.githubusercontent.com/VRLabs/World-Constraint/main/Media/Web/Web/PreviewGif.webp"
   },
   "unityPackageDestinationFolderMetas": {
     "Assets/VRLabs": "652a1ba5b00554143bc9a76307dbc4e8",
