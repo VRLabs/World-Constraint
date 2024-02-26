@@ -16,8 +16,8 @@ A world-fixed object, held in place with a constraint
 
 ### ⬇️ [Download Latest Version](https://github.com/VRLabs/World-Constraint/releases/latest)
 
-<!-- 
-### 📦 [Add to VRChat Creator Companion]() -->
+
+### 📦 [Add to VRChat Creator Companion](https://vrlabs.dev/packages?package=dev.vrlabs.world-constraint)
 
 </div>
 
