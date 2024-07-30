@@ -4,7 +4,8 @@
 
 [![Generic badge](https://img.shields.io/github/downloads/VRLabs/World-Constraint/total?label=Downloads)](https://github.com/VRLabs/World-Constraint/releases/latest)
 [![Generic badge](https://img.shields.io/badge/License-MIT-informational.svg)](https://github.com/VRLabs/World-Constraint/blob/main/LICENSE)
-[![Generic badge](https://img.shields.io/badge/Unity-2019.4.31f1-lightblue.svg)](https://unity3d.com/unity/whats-new/2019.4.31)
+[![Generic badge](https://img.shields.io/badge/Quest-Compatible-green?logo=Meta)](https://img.shields.io/badge/Quest-Compatible-green?logo=Meta)
+[![Generic badge](https://img.shields.io/badge/Unity-2022.3.22f1-lightblue?logo=Unity)](https://unity.com/releases/editor/whats-new/2022.3.22)
 [![Generic badge](https://img.shields.io/badge/SDK-AvatarSDK3-lightblue.svg)](https://vrchat.com/home/download)
 
 [![Generic badge](https://img.shields.io/discord/706913824607043605?color=%237289da&label=DISCORD&logo=Discord&style=for-the-badge)](https://discord.vrlabs.dev/)
@@ -16,12 +17,12 @@ A world-fixed object, held in place with a constraint
 
 ### ⬇️ [Download Latest Version](https://github.com/VRLabs/World-Constraint/releases/latest)
 
-
 ### 📦 [Add to VRChat Creator Companion](https://vrlabs.dev/packages?package=dev.vrlabs.world-constraint)
 
 </div>
 
 ---
+
 ## How it works
 
 * ``World Constraint`` uses ``World.prefab`` from the assets as a parent constraint source. ``World.prefab`` is not in the scene, so ``World Constraint`` will always stay at position 0, 0, 0.
@@ -51,6 +52,7 @@ https://github.com/VRLabs/World-Constraint/assets/76777936/464287a8-c43c-4cf0-bc
 
 ```c++
 Constraints:        3
+Constraint Depth:   3
 ```
 
 ## Hierarchy layout
@@ -83,4 +85,3 @@ World Constraint is available as-is under MIT. For more information see [LICENSE
 [<img src="https://github.com/VRLabs/Resources/raw/main/Icons/Twitter.png" width="50" height="50">](https://twitter.com/vrlabsdev "VRLabs")
 
 </div>
-
