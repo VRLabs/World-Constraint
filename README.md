@@ -37,6 +37,9 @@ https://github.com/VRLabs/World-Constraint/assets/76777936/464287a8-c43c-4cf0-bc
 * Expand the prefab hierarchy and find ``Reset Target``
 * Move ``Reset Target`` outside of ``World Constraint`` and place it anywhere in your avatars hierarchy as needed.
 
+> [!NOTE]  
+> When building for Quest, you will have to remove unsupported components and shaders
+
 ## How to use
 
 * Place the objects you want to leave in world space inside ``World Constraint`` -> ``Container``.
