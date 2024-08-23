@@ -12,7 +12,8 @@
   },
   "siteUrl": "https://github.com/VRLabs/World-Constraint",
   "vpmDependencies": {
-    "dev.vrlabs.instancer": ">=1.0.2"
+    "dev.vrlabs.instancer": ">=1.0.2",
+    "com.vrchat.avatars": "^3.7.0"
   },
   "legacyFolders": {
     "Assets\\VRLabs\\World Constraint": "bf82f1f4eac86b14082325c8d3ac728c"
