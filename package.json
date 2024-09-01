@@ -3,7 +3,7 @@
   "displayName": "World Constraint",
   "version": "1.2.999",
   "license": "MIT",
-  "unity": "2019.4",
+  "unity": "2022.3",
   "description": "A world-fixed object, held in place with a constraint",
   "author": {
     "name": "VRLabs",
@@ -12,7 +12,8 @@
   },
   "siteUrl": "https://github.com/VRLabs/World-Constraint",
   "vpmDependencies": {
-    "dev.vrlabs.instancer": ">=1.0.2"
+    "dev.vrlabs.instancer": ">=1.0.2",
+    "com.vrchat.avatars": "^3.7.0"
   },
   "legacyFolders": {
     "Assets\\VRLabs\\World Constraint": "bf82f1f4eac86b14082325c8d3ac728c"
@@ -26,5 +27,6 @@
   "unityPackageDestinationFolderMetas": {
     "Assets/VRLabs": "652a1ba5b00554143bc9a76307dbc4e8",
     "Assets/VRLabs/World Constraint": "bf82f1f4eac86b14082325c8d3ac728c"
-  }
+  },
+  "questCompatibility": "full"
 }
